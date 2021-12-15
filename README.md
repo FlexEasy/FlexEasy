@@ -5,6 +5,7 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 
 # Knowledge 
 ## 🌱 I’m currently learning ...
+
 - JavaScript
 - TypeScript
 - C# 
@@ -14,10 +15,17 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 - System Verilog
 - Verilog
 - C/C++
-- 
+
 # Projects 
 ## 🔭 I’m currently working on ...
 
+- WebApp FrontEnd
+- Apps Script Project using Google Forms
+- Google Cloud Project
+- AWS Lambda
+
 # 📫Contacts 
+
+- leejsub1427@gmail.com
 
 # ⚡ Extra Information
