@@ -3,7 +3,7 @@
 Jason Lee is University of Illinois Alumni, specializes in hardware languages such as verilog and system verilog for FPGA programming.
 Currently employeed as a full-time software devleloper at ChuneungIT in South Korea and serving country at the same time. 
 
-# 📈 GitHub Stats
+# 📈 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlexEasy&theme=blue-red)
 
@@ -30,7 +30,7 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 
 ## 🔭 Past ...
 
-- Fpga Projects 
+- FPGA Projects 
 
 # 📫Contacts 
 
