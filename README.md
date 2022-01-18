@@ -23,7 +23,7 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 # Projects 
 ## 🔭 Current ...
  
-- WebApp FrontEnd
+- WebApp FrontEnd using TypeScript and React
 - Apps Script Project using Google Forms
 - Google Cloud Project
 - AWS Lambda
