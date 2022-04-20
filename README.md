@@ -22,10 +22,15 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Verilog](https://img.shields.io/badge/-Verilog-000?&logo=Verilog)
+![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=VHDL)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Recoil](https://img.shields.io/badge/-Recoil-000?&logo=Recoil)
 
 # Projects 
 ## 🔭 Current ...
