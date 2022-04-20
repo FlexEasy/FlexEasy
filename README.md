@@ -7,7 +7,7 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlexEasy&theme=blue-red)
 
-
+![Github Stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=FlexEasy&theme=blue-red")
 
 # Knowledge 
 ## 🌱 I’m currently learning ...
