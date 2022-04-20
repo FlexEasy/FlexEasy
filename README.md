@@ -7,18 +7,17 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlexEasy&theme=blue-red)
 
+
+
 # Knowledge 
 ## 🌱 I’m currently learning ...
 
-- JavaScript
-- TypeScript
-- C# 
-- AWS
-- Google Cloud
-- Apps Script
-- System Verilog
-- Verilog
-- C/C++
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 # Projects 
 ## 🔭 Current ...
