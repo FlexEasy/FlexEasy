@@ -4,11 +4,6 @@ Jason Lee is University of Illinois Alumni, specializes in hardware languages su
 Currently employeed as a full-time software devleloper at ChuneungIT in South Korea and serving country at the same time. 
 
 
-<b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FlexEasy&theme=blue-red&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&theme=blue-red" alt="FlexEasy" /></p>
-
-
-
 # 📈 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlexEasy&theme=blue-red)
