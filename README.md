@@ -9,7 +9,7 @@ Currently employeed as a full-time software devleloper at ChuneungIT in South Ko
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlexEasy&theme=blue-red&count_private=true&show_icons=true)
 
 <a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexEasy&theme=blue-red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlexEasy&theme=blue-red&layout=compact" />
 </a>
 
 # Knowledge 
